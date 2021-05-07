@@ -1,8 +1,7 @@
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Deng-Xian-Sheng&show_icons=true&count_private=true" />
-</a>
-
 ### Hi there 👋
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deng-Xian-Sheng&show_icons=true&count_private=true&locale=cn" />
+</a>
 <!--
 **Deng-Xian-Sheng/Deng-Xian-Sheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
