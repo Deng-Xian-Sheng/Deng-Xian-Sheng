@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+GPG key ID: 98596DEF4E8B5E89
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deng-Xian-Sheng&show_icons=true&count_private=true&locale=cn" />
 </a>
