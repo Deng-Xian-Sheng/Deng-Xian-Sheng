@@ -4,7 +4,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deng-Xian-Sheng&show_icons=true&count_private=true&locale=cn" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deng-Xian-Sheng)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deng-Xian-Sheng" />
 </a>
 <!--
 **Deng-Xian-Sheng/Deng-Xian-Sheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
