@@ -9,7 +9,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 <img align="center" style="width:100px;height:100px;" src="https://wiki.edgexfoundry.org/download/thumbnails/66453534/EdgeEx_BugHunter_v2-02.png?version=1&modificationDate=1622829251000&api=v2" />
 
-<h2>Rust的忠诚爱好者</h2><font>——虽然编译器总是教我做人</font>
+<span><font style="font-size:50px">Rust的忠诚爱好者</font><font>——虽然编译器总是教我做人</font></span>
 
 <!--
 **Deng-Xian-Sheng/Deng-Xian-Sheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
