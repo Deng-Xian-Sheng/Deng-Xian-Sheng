@@ -11,7 +11,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 给我打钱👉<a href="">点击我</a>👈
 
-![Generative Image A Call duck teaches a little girl how to code](https://image.pollinations.ai/prompt/A%20Call%20duck%20teaches%20a%20little%20girl%20how%20to%20code)
+![Generative Image A Call duck teaches a little girl how to code](https://image.pollinations.ai/prompt/A%20white%20duck%20is%20writing%20code%2C%20and%20a%20little%20girl%20is%20watching.)
 
 <img align="center" src="https://user-images.githubusercontent.com/28264271/132943683-39d380e0-5579-4a2b-8071-5134d5d8e260.png" />
 
