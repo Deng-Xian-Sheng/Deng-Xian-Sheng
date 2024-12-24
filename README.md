@@ -11,7 +11,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 给我打钱👉<a href="">点击我</a>👈
 
-<iframe href="https://github.com/Deng-Xian-Sheng/pollinations-img-page-no-nsfw"></iframe>
+[<iframe src="[https://github.com/Deng-Xian-Sheng/pollinations-img-page-no-nsfw](https://deng-xian-sheng.github.io/pollinations-img-page-no-nsfw/)"></iframe>](https://deng-xian-sheng.github.io/pollinations-img-page-no-nsfw/)
 
 <img align="center" src="https://user-images.githubusercontent.com/28264271/132943683-39d380e0-5579-4a2b-8071-5134d5d8e260.png" />
 
