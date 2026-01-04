@@ -9,7 +9,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 深度学习爱好者，Yolo、LLM、Milvus……还有更多。
 
-给我打钱👉<a href="">点击我</a>👈
+给我打钱👉<a href="https://github.com/Deng-Xian-Sheng/DeepinV25-desktop-wallpaper/blob/main/IMG_8270.jpeg">点击我</a>👈
 
 <!--![Generative Image A Call duck teaches a little girl how to code](https://image.pollinations.ai/prompt/A%20white%20goose%20wearing%20glasses%20teaches%20a%2014-year-old%20girl%20to%20write%20Python%20code%20using%20a%20Mac%20Book%20Pro.)-->
 
