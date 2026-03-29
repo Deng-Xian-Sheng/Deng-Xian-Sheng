@@ -15,7 +15,7 @@ GPG key ID: 98596DEF4E8B5E89
 
 <!--![Generative White Americans work for you](https://image.pollinations.ai/prompt/A%20white%20American%20man%20wearing%20a%20black%20T-shirt%20with%20the%20words%20%22Work%20for%20You%22%20written%20on%20it%2C%20with%20his%20hands%20folded%20on%20the%20table%2C%20smiling%20at%20the%20camera%2C%20with%20a%20black%20background)-->
 
-<img width="500" alt="纸板-雇佣我吧-AI生图" src="https://github.com/user-attachments/assets/0c347ed8-33db-458e-80ff-6e2572d3caa0" />
+<!-- <img width="500" alt="纸板-雇佣我吧-AI生图" src="https://github.com/user-attachments/assets/0c347ed8-33db-458e-80ff-6e2572d3caa0" /> -->
 
 
 <img width="500" alt="为你工作-AI生图" src="https://github.com/user-attachments/assets/2a3dd230-89ca-48b9-86fc-587af6d61f1b" />
